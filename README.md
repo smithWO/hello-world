@@ -1,2 +1,3 @@
 # hello-world
-first repository
+it's my first repository
+my name is smith. i'm love pugs 
